@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+body {
+    font-family: 'Mulish', sans-serif;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+
+.result {
+    font-size: 20px;
+    margin-top: 22px;
+    font-color: yellow;
+  }
+
+.button {
+    padding: 18px 25px;
+    font-size: 15px;
+    background-color: Yellow;
+    color: black;
+    border: none;
+    cursor: pointer;
+  }
